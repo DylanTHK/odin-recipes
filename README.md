@@ -2,5 +2,7 @@
 
 short recipe from The Odin Project
 
-HTML skills
-Git commit messages
+LEARNING OUTCOMES
+Practiced HTML skills
+Practiced Git commit messages
+Learnt how to link web pages
