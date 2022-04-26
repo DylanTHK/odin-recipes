@@ -2,4 +2,55 @@
     font-family: Tahoma, sans-serif;
     background-color: #CC9543;
     color: white;
+    text-align: center;
+    padding: 0em;
+    margin: 0;
+}
+
+img {
+    padding: .5em;
+}
+
+h1 {
+    /* background-color: aqua; */
+    padding: 1em;
+}
+
+h2 {
+    padding: 1em;
+}
+
+p {
+    /* background-color: brown; */
+}
+
+ul {
+    /* background-color: darkgreen; */
+    list-style-type: none;
+    margin-left: 20em;
+    margin-right: 20em;
+}
+
+ul li {
+    padding: .2em;
+}
+
+
+ol {
+    margin-left: 25em;
+    margin-right: 20em;
+    margin-bottom: 3em;
+}
+
+ol li {
+    padding: .2em;
+    text-align: left;
+}
+
+#links {
+    padding: 1em;
+}
+
+#links li {
+    padding: .2em;
 }
